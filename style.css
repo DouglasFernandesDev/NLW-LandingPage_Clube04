@@ -57,7 +57,11 @@ ul {
 }
 
 img {
-  max-width: 100%;
+  max-width: 50%;
+}
+
+img {
+  max-width: 80%;
 }
 
 section {
