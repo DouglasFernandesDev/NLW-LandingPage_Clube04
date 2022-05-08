@@ -60,10 +60,7 @@ img {
   max-width: 50%;
 }
 
-img.dog{
-  max-width: 80%;
-}
-
+img.dog,
 img.mid {
   max-width: 100%;
 }
