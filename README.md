@@ -2,7 +2,8 @@
 #### Projeto feito juntamente com a @rocketseat, com base em um projeto com foco em saúde.
 #### Meu projeto foi baseado na empresa em que minha mulher entrou. Peguei as paleta de cores deles, e acrescentei os detalhes da empresa.
 #### Observação, não está 100% pois não tenho total acesso a empresa e aos fundadores dela.
-
+#### Links totalmente funcionais, com redirecionamento para a página oficial da empresa.
+#### Botão do WhatsApp redirecionando para o atendimento da empresa.
 
 # Fotos do index:
 
